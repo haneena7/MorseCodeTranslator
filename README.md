@@ -16,7 +16,7 @@ A fun and functional Morse Code Translator app built with **SwiftUI** for **Swif
 
 ---
 
-> ## Screenshot
+ ## Screenshot
 
 ![Morse Code App Screenshot](IMG_3465.jpeg)
 
